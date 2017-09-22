@@ -1,0 +1,51 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+/* line 23, pre-build/sass/_styles.scss */
+#myLogo {
+  width: 30px;
+  height: 30px; }
+
+/* line 29, pre-build/sass/_styles.scss */
+#searchInput {
+  width: 165px;
+  height: 30px; }
+
+/* line 34, pre-build/sass/_styles.scss */
+#goSearch {
+  width: 60px;
+  height: 30px; }
+
+/* line 39, pre-build/sass/_styles.scss */
+.navbar-brand {
+  padding: 13px 15px; }
+
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+/* Portrait & landscape phone */
+/* Landscape phone to portrait tablet */
+/* Large desktop */
+/* line 7, pre-build/sass/main.scss */
+body {
+  background-color: #FFFFFF;
+  color: #000000; }
