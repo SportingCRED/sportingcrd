@@ -1,0 +1,23 @@
+{
+  "name": "sportingcrd_site",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SportingCRED/sportingcrd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SportingCRED/sportingcrd/issues"
+  },
+  "homepage": "https://github.com/SportingCRED/sportingcrd#readme",
+  "description": ""
+}
